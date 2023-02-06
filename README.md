@@ -15,6 +15,6 @@
 
 ## Bibliografia
 
-* _AWS Documentation, https://docs.aws.amazon.com/_ Amazon Web Services
-* _Terraform Documentation, https://developer.hashicorp.com/terraform/docs_ Hashicorp
+* _AWS Documentation, https://docs.aws.amazon.com/_ - Amazon Web Services
+* _Terraform Documentation, https://developer.hashicorp.com/terraform/docs_ - Hashicorp
 * 
