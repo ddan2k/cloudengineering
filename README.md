@@ -25,11 +25,11 @@
 
 * _AWS Documentation, https://docs.aws.amazon.com/_ - Amazon Web Services
 * _Terraform Documentation, https://developer.hashicorp.com/terraform/docs_ - Hashicorp
-* _Infrastruktura jako kod. Dynamiczne systemy w epoce chmury - Kief Morris
-* _Projekt Feniks. Powieść o IT, modelu DevOps i o tym, jak pomóc firmie w odniesieniu sukcesu - Gene Kim, Kevin Behr, George Spafford
-* _Site Reliability Engineering: How Google Runs Production Systems - Betsy Beyer, Chrisa Jones, Jennifer Petoff i Nill Richard Murphy
-* _Terraform. Tworzenie infrastruktury za pomocą kodu. - Yevgeniy Brikman
-* _VMware dla administratorów sieci komputerowych - Christopher Wahl, Steve Pantol
-* _Docker. Praktyczne zastosowania. - Sean P. Kane, Karl Matthias
-* _Najlepsze praktyki w Kubernetes. Jak budować udane aplikacje - Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
-* _Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania - Jez Humble, David Farley
+* _Infrastruktura jako kod. Dynamiczne systemy w epoce chmury_ - Kief Morris
+* _Projekt Feniks. Powieść o IT, modelu DevOps i o tym, jak pomóc firmie w odniesieniu sukcesu_ - Gene Kim, Kevin Behr, George Spafford
+* _Site Reliability Engineering: How Google Runs Production Systems_ - Betsy Beyer, Chrisa Jones, Jennifer Petoff i Nill Richard Murphy
+* _Terraform. Tworzenie infrastruktury za pomocą kodu._ - Yevgeniy Brikman
+* _VMware dla administratorów sieci komputerowych_ - Christopher Wahl, Steve Pantol
+* _Docker. Praktyczne zastosowania._ - Sean P. Kane, Karl Matthias
+* _Najlepsze praktyki w Kubernetes. Jak budować udane aplikacje_ - Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
+* _Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania_ - Jez Humble, David Farley
