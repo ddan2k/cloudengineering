@@ -1,6 +1,6 @@
 ## Infrastruktura serwerowa XXI wieku. Tworzenie jej za pomocą kodu.
 
-Projekt przedstawia 
+Projekt przedstawia infrastrukturę i rodzaje architektury jakie przewijały się w XXI wieku, od infrastruktury bare-metalowej po zautomatyzowaną w usługach chmurowych. Zawiera porównania technologiczne jak i kosztowe każdej z jej rodzajów.
 <br>
 
 ## Spis treści
