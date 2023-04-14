@@ -8,7 +8,7 @@
     1.2. Rodzaje infrastruktury on-premise, takie jak serwery, stacje robocze, magazyny danych i urządzenia sieciowe.<br>
     1.3. Bezpieczeństwo w infrastrukturze on-premise, w tym zabezpieczenie sieci, systemów operacyjnych i aplikacji.<br>
     1.4. Zarządzanie i monitorowanie infrastruktury on-premise, w tym narzędzia i praktyki. <br>
-    1.5. Przykłady firm i branż, które wykorzystują infrastrukturę on-premise i w jakich celach.<br>
+    1.5. Przykłady firm i branż, które wykorzystują bezpieczną infrastrukturę i do jakich celów.<br>
   2. Przedstawienie i omówienie infrastruktury z wykorzystaniem wirtualizacji (np. HyperV lub VMWare)
   3. Skupienie się na infrastrukturze chmurowej, przedstawienie i jej omówienie
   4. Pokazanie i omówienie kodu tworzącego infrastrukturę chmurową (Kod + CI/CD)
