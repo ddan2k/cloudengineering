@@ -1,5 +1,6 @@
-## Infrastruktura serwerowa XXI wieku
+## Infrastruktura serwerowa XXI wieku. Tworzenie jej za pomocą kodu.
 
+<br>
 
 ## Spis treści
 
