@@ -14,19 +14,19 @@
 4. Pokazanie i omówienie kodu tworzącego infrastrukturę chmurową (Kod + CI/CD)
 5. Wyjaśnienie działania kluczowych serwisów, które wykorzystano w projekcie
 6. Omówienie zastosowania kubernetes + docker w projekcie
-7. Porównanie kosztowe wszystkich rozwiązań
+7. Porównanie kosztowe wszystkich rozwiązań<br>
   7.1. Koszty związane z utrzymaniem infrastruktury on-premise, w tym koszty zakupu i utrzymania sprzętu, oprogramowania i personelu IT.
 8. Zakończenie tematu, skupienie się na aspektach kiedy jaka infrastruktura ma lepsze zastosowanie, podsumowanie tematu
 
 ##Bibliografia
 
-* AWS Documentation, https://docs.aws.amazon.com/ - Amazon Web Services
-* Terraform Documentation, https://developer.hashicorp.com/terraform/docs - Hashicorp
-* Infrastruktura jako kod. Dynamiczne systemy w epoce chmury - Kief Morris
-* Projekt Feniks. Powieść o IT, modelu DevOps i o tym, jak pomóc firmie w odniesieniu sukcesu - Gene Kim, Kevin Behr, George Spafford
-* Site Reliability Engineering: How Google Runs Production Systems - Betsy Beyer, Chrisa Jones, Jennifer Petoff i Nill Richard Murphy
-* Terraform. Tworzenie infrastruktury za pomocą kodu. - Yevgeniy Brikman
-* VMware dla administratorów sieci komputerowych - Christopher Wahl, Steve Pantol
-* Docker. Praktyczne zastosowania. - Sean P. Kane, Karl Matthias
-* Najlepsze praktyki w Kubernetes. Jak budować udane aplikacje - Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
-* Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania - Jez Humble, David Farley
+* _AWS Documentation_, https://docs.aws.amazon.com/ - Amazon Web Services
+* _Terraform Documentation_, https://developer.hashicorp.com/terraform/docs - Hashicorp
+* _Infrastruktura jako kod. Dynamiczne systemy w epoce chmury_ - Kief Morris
+* _Projekt Feniks. Powieść o IT, modelu DevOps i o tym, jak pomóc firmie w odniesieniu sukcesu_ - Gene Kim, Kevin Behr, George Spafford
+* _Site Reliability Engineering: How Google Runs Production Systems_ - Betsy Beyer, Chrisa Jones, Jennifer Petoff i Nill Richard Murphy
+* _Terraform. Tworzenie infrastruktury za pomocą kodu._ - Yevgeniy Brikman
+* _VMware dla administratorów sieci komputerowych_ - Christopher Wahl, Steve Pantol
+* _Docker. Praktyczne zastosowania._ - Sean P. Kane, Karl Matthias
+* _Najlepsze praktyki w Kubernetes. Jak budować udane aplikacje._ - Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
+* _Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania_ - Jez Humble, David Farley
