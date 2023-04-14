@@ -7,7 +7,7 @@
     1.1. Co to jest infrastruktura on-premise i jakie są jej zalety i wady?<br>
     1.2. Rodzaje infrastruktury on-premise, takie jak serwery, stacje robocze, magazyny danych i urządzenia sieciowe.<br>
     1.3. Bezpieczeństwo w infrastrukturze on-premise, w tym zabezpieczenie sieci, systemów operacyjnych i aplikacji.<br>
-    1.4. Zarządzanie i monitorowanie infrastruktury on-premise, w tym narzędzia i praktyki, takie jak zarządzanie wirtualizacją, wdrażanie aktualizacji i backup              danych.<br>
+    1.4. Zarządzanie i monitorowanie infrastruktury on-premise, w tym narzędzia i praktyki. <br>
     1.5. Przykłady firm, które wykorzystują infrastrukturę on-premise i w jakich celach.<br>
     1.7. Przykłady wykorzystania infrastruktury on-premise w różnych branżach, takich jak finanse, opieka zdrowotna i produkcja.
   2. Przedstawienie i omówienie infrastruktury z wykorzystaniem wirtualizacji (np. HyperV lub VMWare)
