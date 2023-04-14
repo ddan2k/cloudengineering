@@ -1,7 +1,7 @@
 ## Infrastruktura serwerowa XXI wieku. Tworzenie jej za pomocą kodu.
 <br>
 
-##Spis treści
+## Spis treści
 
 1. Przedstawienie i omówienie infrastruktury on-premise<br>
   1.1. Co to jest infrastruktura on-premise i jakie są jej zalety i wady?<br>
@@ -18,7 +18,7 @@
   7.1. Koszty związane z utrzymaniem infrastruktury on-premise, w tym koszty zakupu i utrzymania sprzętu, oprogramowania i personelu IT.
 8. Zakończenie tematu, skupienie się na aspektach kiedy jaka infrastruktura ma lepsze zastosowanie, podsumowanie tematu
 
-##Bibliografia
+## Bibliografia
 
 * _AWS Documentation_, https://docs.aws.amazon.com/ - Amazon Web Services
 * _Terraform Documentation_, https://developer.hashicorp.com/terraform/docs - Hashicorp
