@@ -1,4 +1,6 @@
 ## Infrastruktura serwerowa XXI wieku. Tworzenie jej za pomocą kodu.
+
+Projekt przedstawia 
 <br>
 
 ## Spis treści
@@ -20,13 +22,13 @@
 
 ## Bibliografia
 
-* _AWS Documentation_, https://docs.aws.amazon.com/ - Amazon Web Services
-* _Terraform Documentation_, https://developer.hashicorp.com/terraform/docs - Hashicorp
-* _Infrastruktura jako kod. Dynamiczne systemy w epoce chmury_ - Kief Morris
-* _Projekt Feniks. Powieść o IT, modelu DevOps i o tym, jak pomóc firmie w odniesieniu sukcesu_ - Gene Kim, Kevin Behr, George Spafford
-* _Site Reliability Engineering: How Google Runs Production Systems_ - Betsy Beyer, Chrisa Jones, Jennifer Petoff i Nill Richard Murphy
-* _Terraform. Tworzenie infrastruktury za pomocą kodu._ - Yevgeniy Brikman
-* _VMware dla administratorów sieci komputerowych_ - Christopher Wahl, Steve Pantol
-* _Docker. Praktyczne zastosowania._ - Sean P. Kane, Karl Matthias
-* _Najlepsze praktyki w Kubernetes. Jak budować udane aplikacje._ - Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson
-* _Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania_ - Jez Humble, David Farley
+* _AWS Documentation_, https://docs.aws.amazon.com/ - __Amazon Web Services__
+* _Terraform Documentation_, https://developer.hashicorp.com/terraform/docs - __Hashicorp__
+* _Infrastruktura jako kod. Dynamiczne systemy w epoce chmury_ - __Kief Morris__
+* _Projekt Feniks. Powieść o IT, modelu DevOps i o tym, jak pomóc firmie w odniesieniu sukcesu_ - __Gene Kim, Kevin Behr, George Spafford__
+* _Site Reliability Engineering: How Google Runs Production Systems_ - __Betsy Beyer, Chrisa Jones, Jennifer Petoff i Nill Richard Murphy__
+* _Terraform. Tworzenie infrastruktury za pomocą kodu._ - __Yevgeniy Brikman__
+* _VMware dla administratorów sieci komputerowych_ - __Christopher Wahl, Steve Pantol__
+* _Docker. Praktyczne zastosowania._ - __Sean P. Kane, Karl Matthias__
+* _Najlepsze praktyki w Kubernetes. Jak budować udane aplikacje._ - __Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson__
+* _Ciągłe dostarczanie oprogramowania. Automatyzacja kompilacji, testowania i wdrażania_ - __Jez Humble, David Farley__
