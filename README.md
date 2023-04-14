@@ -15,7 +15,7 @@ Projekt przedstawia infrastrukturę i rodzaje architektury jakie przewijały si�
 3. Skupienie się na infrastrukturze chmurowej, przedstawienie i jej omówienie.
 4. Pokazanie i omówienie kodu tworzącego infrastrukturę chmurową (Kod + CI/CD).
 5. Wyjaśnienie działania kluczowych serwisów, które wykorzystano w projekcie.
-6. Omówienie zastosowania kubernetes + docker w projekcie.
+6. Omówienie zastosowania Kubernetes + Docker w projekcie.
 7. Porównanie kosztowe wszystkich rozwiązań.<br>
   7.1. Koszty związane z utrzymaniem infrastruktury on-premise, w tym koszty zakupu i utrzymania sprzętu, oprogramowania i personelu IT.
 8. Zakończenie tematu, skupienie się na aspektach kiedy jaka infrastruktura ma lepsze zastosowanie, podsumowanie tematu.
