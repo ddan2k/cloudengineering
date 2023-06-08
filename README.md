@@ -8,17 +8,17 @@ Projekt przedstawia infrastrukturę i rodzaje architektury jakie przewijały si�
 1. Przedstawienie i omówienie infrastruktury on-premise.<br>
   1.1. Co to jest infrastruktura on-premise i jakie są jej zalety i wady?<br>
   1.2. Rodzaje infrastruktury on-premise, takie jak serwery, stacje robocze, magazyny danych i urządzenia sieciowe.<br>
-  1.3. Bezpieczeństwo w infrastrukturze on-premise, w tym zabezpieczenie sieci, systemów operacyjnych i aplikacji.<br>
-  1.4. Zarządzanie i monitorowanie infrastruktury on-premise, w tym narzędzia i praktyki.<br>
-  1.5. Przykłady firm i branż, które wykorzystują bezpieczną infrastrukturę i do jakich celów.<br>
-2. Przedstawienie i omówienie infrastruktury z wykorzystaniem wirtualizacji (np. HyperV lub VMWare).
-3. Skupienie się na infrastrukturze chmurowej, przedstawienie i jej omówienie.
-4. Pokazanie i omówienie kodu tworzącego infrastrukturę chmurową (Kod + CI/CD).
-5. Wyjaśnienie działania kluczowych serwisów, które wykorzystano w projekcie.
-6. Omówienie zastosowania Kubernetes + Docker w projekcie.
-7. Porównanie kosztowe wszystkich rozwiązań.<br>
-  7.1. Koszty związane z utrzymaniem infrastruktury on-premise, w tym koszty zakupu i utrzymania sprzętu, oprogramowania i personelu IT.
-8. Zakończenie tematu, skupienie się na aspektach kiedy jaka infrastruktura ma lepsze zastosowanie, podsumowanie tematu.
+  1.3 Wirtualizacja.<br>
+  1.4. Bezpieczeństwo w infrastrukturze on-premise, w tym zabezpieczenie sieci, systemów operacyjnych i aplikacji.<br>
+  1.5. Zarządzanie i monitorowanie infrastruktury on-premise, w tym narzędzia i praktyki.<br>
+  1.6. Przykłady firm i branż, które wykorzystują bezpieczną infrastrukturę i do jakich celów.<br>
+2. Infrastruktura chmurowa.
+3. Pokazanie i omówienie kodu tworzącego infrastrukturę chmurową.
+4. Wyjaśnienie działania kluczowych serwisów, które wykorzystano w projekcie.
+5. Omówienie zastosowania Kubernetes + Docker w projekcie.
+6. Porównanie kosztowe wszystkich rozwiązań.<br>
+  6.1. Koszty związane z utrzymaniem infrastruktury on-premise, w tym koszty zakupu i utrzymania sprzętu, oprogramowania i personelu IT.
+7. Zakończenie tematu, skupienie się na aspektach kiedy jaka infrastruktura ma lepsze zastosowanie, podsumowanie tematu.
 
 ## Bibliografia
 
