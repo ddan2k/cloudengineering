@@ -13,11 +13,11 @@ Projekt przedstawia infrastrukturę i rodzaje architektury jakie przewijały si�
   1.5. Zarządzanie i monitorowanie infrastruktury on-premise, w tym narzędzia i praktyki.<br>
   1.6. Przykłady firm i branż, które wykorzystują bezpieczną infrastrukturę i do jakich celów.<br>
 2. Infrastruktura chmurowa.
-  2.1 Liderzy rynku chmurowego.
-  2.2 Pojęcia związane z Cloud Computing.
-  2.3 Multicloud.
-  2.4 Zalety i wady.
-  2.5 Narzędzia wykorzystywane w chmurze.
+  2.1 Liderzy rynku chmurowego.<br>
+  2.2 Pojęcia związane z Cloud Computing.<br>
+  2.3 Multicloud.<br>
+  2.4 Zalety i wady.<br>
+  2.5 Narzędzia wykorzystywane w chmurze.<br>
 3. Pokazanie i omówienie kodu tworzącego infrastrukturę chmurową.
 4. Wyjaśnienie działania kluczowych serwisów, które wykorzystano w projekcie.
 5. Omówienie zastosowania Kubernetes + Docker w projekcie.
