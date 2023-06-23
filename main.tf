@@ -19,7 +19,7 @@ resource "aws_instance" "ec2-frankfurt01" {
     instance_type   = "t2.micro"
     key_name        = "frankfurt-instance"
 
-    security_groups = [aws_security_group.security01]
+    security_groups = [aws_security_group.security01.name]
 
     tags            = {
         Name        = "Server01" 
