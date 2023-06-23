@@ -1,4 +1,3 @@
-#Wybór pierwszego regionu
 terraform {
     required_providers {
         aws = {
