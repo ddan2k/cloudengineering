@@ -1,15 +1,24 @@
 #Wybór pierwszego regionu
-provider "aws" {
-    region  = "eu-central-1"  #Frankfurt
-    version = "~> 5.5.0"
+terraform {
+    required_providers {
+        aws = {
+            source  = "hashicorp/aws" 
+            version = "~> 5.5.0"
+        }
+    }
 }
+
+#Deklaracja dostawcy chmurowego
+provider "aws" {
+    region = "eu-central-1" #Frankfurt
+}
+
 
 #Utworzenie EC2
 resource "aws_instance" "ec2-frankfurt01" {
     ami             = "ami-03cbad7144aeda3eb"  #Red Hat Linux
     instance_type   = "t2.micro"
     key_name        = "frankfurt-instance"
-    subnet_id       = aws_subnet.subnet_1.id
 
     security_groups = [aws_security_group.security01]
 
@@ -31,18 +40,6 @@ resource "aws_security_group" "security01" {
         protocol    = "tcp"
         cidr_blocks = ["0.0.0.0/0"]
     }
-}
-
-#Utworzenie VPC
-resource "aws_vpc" "my-vpc1" {
-    cidr_block = "172.20.0.0/16"
-}
-
-#Utworzenie podsieci
-resource "aws_subnet" "subnet01-frankfurt" {
-    vpc_id            = aws_vpc.my_vpc.id
-    cidr_block        = "172.20.1.0/24"
-    availability_zone = "eu-central-2a"
 }
 
 output "ec2_public_dns" {
