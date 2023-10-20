@@ -1,0 +1,15 @@
+# lokalne pliki terraform
+**/.terraform/*
+
+# pliki .tfstate
+*.tfstate
+*.tfstate.*
+
+# Terraform lockfile
+.terraform.lock.hcl
+
+# pliki crash loga
+crash.log
+
+# pliki zawierające hasła i dane wrażliwe
+*.tfvars
