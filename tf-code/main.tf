@@ -1,14 +1,4 @@
-#Wybór pierwszego regionu
-terraform {
-    required_providers {
-        aws = {
-            source  = "hashicorp/aws" 
-            version = "~> 5.22.0"
-        }
-    }
-}
-
-#Deklaracja dostawcy chmurowego
+#Deklaracja dostawcy chmurowego wraz z regionem
 provider "aws" {
     region = "eu-central-1" #Frankfurt
 }
