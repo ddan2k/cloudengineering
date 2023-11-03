@@ -20,9 +20,9 @@ Projekt przedstawia infrastrukturę i rodzaje architektury jakie przewijały si�
   2.5 Narzędzia wykorzystywane w chmurze.<br>
 3. Pokazanie i omówienie kodu tworzącego infrastrukturę chmurową.
 4. Wyjaśnienie działania kluczowych serwisów, które wykorzystano w projekcie.
-6. Porównanie kosztowe wszystkich rozwiązań.<br>
-  6.1. Koszty związane z utrzymaniem infrastruktury on-premise, w tym koszty zakupu i utrzymania sprzętu, oprogramowania i personelu IT.
-7. Zakończenie tematu, skupienie się na aspektach kiedy jaka infrastruktura ma lepsze zastosowanie, podsumowanie tematu.
+5. Porównanie kosztowe wszystkich rozwiązań.<br>
+   5.1. Koszty związane z utrzymaniem infrastruktury on-premise, w tym koszty zakupu i utrzymania sprzętu, oprogramowania i personelu IT.
+6. Zakończenie tematu, skupienie się na aspektach kiedy jaka infrastruktura ma lepsze zastosowanie, podsumowanie tematu.
 
 ## Bibliografia
 
