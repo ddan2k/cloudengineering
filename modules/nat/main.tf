@@ -15,7 +15,7 @@ resource "aws_eip" "eip-nat-b" {
   }
 }
 
-# Stworzenie NATow dla poszczególnych podsieci
+# Stworzenie NATow dla publicznych podsieci
 resource "aws_nat_gateway" "nat-a" {
   allocation_id = aws_eip.eip-nat-a.id
   subnet_id     = var.pub_sub_1a_id
