@@ -4,7 +4,7 @@
 
 ../modules/key/client_key
 ../modules/key/client_key.pub
-# Local .terraform directories
+# lokalne foldery terraform
 **/.terraform/*
 .terraform/*
 *.hcl
@@ -13,7 +13,7 @@
 terraform.*
 *.tfvars*
 
-# .tfstate files
+# pliki .tfstate
 *.tfstate
 /**/*.tfstate*
 *.tfstate.*

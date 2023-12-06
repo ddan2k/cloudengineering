@@ -1,3 +1,4 @@
+# wywołanie VPC
 module "vpc" {
     source = "../modules/vpc"
     region = var.region
@@ -11,6 +12,7 @@ module "vpc" {
     pri_sub_6b_cidr = var.pri_sub_6b_cidr
 }
 
+# wywołanie modułu NAT
 module "nat" {
   source = "../modules/nat"
 
@@ -24,12 +26,13 @@ module "nat" {
   pri_sub_6b_id = module.vpc.pri_sub_6b_id
 }
 
+# odwołanie do stworzenia security-group
 module "security-group" {
   source = "../modules/security-group"
   vpc_id = module.vpc.vpc_id
 }
 
-# klucz dostępu
+# "klucz dostępu" do chmury
 module "key" {
   source = "../modules/key"
 }
@@ -44,6 +47,7 @@ module "alb" {
   vpc_id         = module.vpc.vpc_id
 }
 
+# EC2 Auto Scalling
 module "asg" {
   source         = "../modules/asg"
   project_name   = module.vpc.project_name
@@ -55,8 +59,7 @@ module "asg" {
 
 }
 
-# stworzenie instancji RDS
-
+# Instancja RDS
 module "rds" {
   source         = "../modules/rds"
   db_sg_id       = module.security-group.db_sg_id
