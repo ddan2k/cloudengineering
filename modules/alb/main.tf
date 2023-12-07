@@ -6,7 +6,7 @@ resource "aws_lb" "application_load_balancer" {
   subnets            = [var.pub_sub_1a_id,var.pub_sub_2b_id]
   enable_deletion_protection = false
 
-   tags   = {
+    tags   = {
     Name = "${var.project_name}-alb"
   }
 
@@ -14,7 +14,6 @@ resource "aws_lb" "application_load_balancer" {
 
 
 # targetowanie grupy której porty mają być przekierowane
-
 resource "aws_lb_target_group" "alb_target_group" {
   name        = "${var.project_name}-target"
   target_type = "instance"

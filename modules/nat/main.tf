@@ -50,17 +50,6 @@ resource "aws_route_table" "pri-rt-a" {
   }
 }
 
-# Dodanie tych podsieci do tablicy
-resource "aws_route_table_association" "pri-sub-3a-with-Pri-rt-a" {
-  subnet_id         = var.pri_sub_3a_id
-  route_table_id    = aws_route_table.pri-rt-a.id
-}
-
-resource "aws_route_table_association" "pri-sub-4b-with-Pri-rt-b" {
-  subnet_id         = var.pri_sub_4b_id
-  route_table_id    = aws_route_table.pri-rt-a.id
-}
-
 resource "aws_route_table" "pri-rt-b" {
   vpc_id            = var.vpc_id
 
@@ -72,6 +61,17 @@ resource "aws_route_table" "pri-rt-b" {
   tags   = {
     Name = "pri-rt-b"
   }
+}
+
+# Dodanie tych podsieci do tablicy
+resource "aws_route_table_association" "pri-sub-3a-with-Pri-rt-a" {
+  subnet_id         = var.pri_sub_3a_id
+  route_table_id    = aws_route_table.pri-rt-a.id
+}
+
+resource "aws_route_table_association" "pri-sub-4b-with-Pri-rt-b" {
+  subnet_id         = var.pri_sub_4b_id
+  route_table_id    = aws_route_table.pri-rt-a.id
 }
 
 resource "aws_route_table_association" "pri-sub-5a-with-pri-rt-b" {
