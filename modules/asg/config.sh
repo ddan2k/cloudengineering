@@ -29,22 +29,3 @@ echo "########################################"
 mkdir -p $TEMPDIR
 cd $TEMPDIR
 echo
-
-wget $URL > /dev/null
-unzip $ART_NAME.zip > /dev/null
-sudo cp -r $ART_NAME/* /var/www/html/
-echo
-
-# Bounce Service
-echo "########################################"
-echo "Restarting HTTPD service"
-echo "########################################"
-systemctl restart $SVC
-echo
-
-# Clean Up
-echo "########################################"
-echo "Removing Temporary Files"
-echo "########################################"
-rm -rf $TEMPDIR
-echo "cleanup done"
