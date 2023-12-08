@@ -1,32 +1,32 @@
-## Infrastruktura serwerowa XXI wieku. Tworzenie jej za pomocą kodu.
+## Infrastruktura serwerowa i tworzenie jej za pomocą kodu
 
-Projekt przedstawia infrastrukturę i rodzaje architektury jakie przewijały się w XXI wieku, od infrastruktury bare-metalowej po zautomatyzowaną w usługach chmurowych. Zawiera porównania technologiczne jak i kosztowe każdej z jej rodzajów.
+Projekt przedstawia infrastrukturę serwerową, opisuje jej zastosowania w rozwiązanach on-premise oraz chmurowych. Również tworzona jest w nim infrastruktura chmurowa w aplikacji AWS pod dowolną aplikację chmurową.
 <br>
 
 ## Spis treści
 
-1. Streszczenie
-2. Wstęp<br>
-  2.1. Cel pracy<br>
-3. Przedstawienie i omówienie infrastruktury on-premise.<br>
-  3.1. Co to jest infrastruktura on-premise i jakie są jej zalety i wady?<br>
-  3.2. Rodzaje infrastruktury on-premise, takie jak serwery, stacje robocze, magazyny danych i urządzenia sieciowe.<br>
-  3.3 Wirtualizacja.<br>
-  3.4. Bezpieczeństwo w infrastrukturze on-premise, w tym zabezpieczenie sieci, systemów operacyjnych i aplikacji.<br>
-  3.5. Zarządzanie i monitorowanie infrastruktury on-premise, w tym narzędzia i praktyki.<br>
-  3.6. Przykłady firm i branż, które wykorzystują bezpieczną infrastrukturę i do jakich celów.<br>
-4. Infrastruktura chmurowa<br>
-  4.1. Czym jest chmura?<br>
-  4.2. Historia Amazon Web Services<br>
-  4.3. Liderzy rynku chmurowego<br>
-  4.4. Pojęcia związane z Cloud Computing<br>
-  4.5. Multicloud<br>
-  4.6. Zalety i wady chmury<br>
-  4.7. Narzędzia wykorzystywane w chmurze<br>
-5. Wyjaśnienie działania kluczowych serwisów, które wykorzystano w projekcie.
-6. Porównanie kosztowe wszystkich rozwiązań.<br>
-   5.1. Koszty związane z utrzymaniem infrastruktury on-premise, w tym koszty zakupu i utrzymania sprzętu, oprogramowania i personelu IT.
-7. Zakończenie tematu, skupienie się na aspektach kiedy jaka infrastruktura ma lepsze zastosowanie, podsumowanie tematu.
+1. Wstęp<br>
+1.1. Cel pracy<br>
+2. Przedstawienie i omówienie infrastruktury on-premise<br>
+  2.1. Co to jest infrastruktura on-premise i jakie są jej zalety i wady?<br>
+  2.2. Rodzaje infrastruktury on-premise, takie jak serwery, stacje robocze, magazyny danych i urządzenia sieciowe<br>
+  2.3 Wirtualizacja.<br>
+  2.4. Bezpieczeństwo w infrastrukturze on-premise, w tym zabezpieczenie sieci, systemów operacyjnych i aplikacji<br>
+  2.5. Zarządzanie i monitorowanie infrastruktury on-premise, w tym narzędzia i praktyki.<br>
+  2.6. Przykłady firm i branż, które wykorzystują bezpieczną infrastrukturę i do jakich celów.<br>
+3. Infrastruktura chmurowa<br>
+  3.1. Czym jest chmura?<br>
+  3.2. DevOps<br>
+  3.3. Liderzy rynku chmurowego<br>
+  3.4. Pojęcia związane z Cloud Computing<br>
+  3.5. Multicloud<br>
+  3.6. Zalety i wady chmury<br>
+  3.7. Narzędzia wykorzystywane w chmurze<br>
+5. Budowa infrastruktury aplikacji chmurowej AWS przy użyciu Terraform<br>
+  5.1. Wykorzystane serwisy AWS<br>
+  5.2  Kod Terraform
+6. Porównanie kosztowe serwerów on-premise z serwerami chmurowymi AWS
+7. Podsumowanie
 
 ## Bibliografia
 
